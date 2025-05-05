@@ -1,7 +1,7 @@
 ## 安装
 
-- Greasyfork：https://greasyfork.org/zh-CN/scripts/xxxxxxxx
-- Greasyfork镜像：https://gfork.zh-tw.eu.org/zh-hans/scripts/xxxxxxxx
+- Greasyfork：https://greasyfork.org/zh-CN/scripts/534996
+- Greasyfork镜像：https://gfork.zh-tw.eu.org/zh-hans/scripts/534996
 - Github：https://github.com/Jayvin-Leung/Bilibili-Fav-Filter/releases
 - Gitee：https://gitee.com/Jayvin_Leung/Bilibili-Fav-Filter/releases
 
@@ -16,7 +16,7 @@
 
 ## 使用说明
 
-详情请查看：https://www.bilibili.com/video/xxxxxxxx
+详情请查看：https://www.bilibili.com/video/BV13tVzzyEPT
 
 ## 兼容性
 
