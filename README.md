@@ -16,7 +16,7 @@
 
 ## 使用说明
 
-详情请查看：https://www.bilibili.com/video/BV1XQV9zWEcB/
+详情请查看：https://www.bilibili.com/video/BV1obVfzyEqf/
 
 ## 兼容性
 
